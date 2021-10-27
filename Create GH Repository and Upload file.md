@@ -9,7 +9,7 @@ allowes you to come together with others and work on projects from anywhere.
 Log on to GitHub.com and sign in to your account. To create a repository, locate the GitHub icon on the upper left-hand corner.
 
 You will now arrive to the repository page. Select <b>New</b> on the left-hand side of the page.
-Next, you will choose a name for your repository. Once a name is chosen, select whether 
+Next, you will choose a name for your repository and select whether 
 you want a public repository or a private repository. Select <b>Initialize this repository with a README</b>. Choosing to 
 initialize the repository with a README allows you to give a brief synopsis on what your repository is about. 
 Lastly, select <b>create repository</b>.
