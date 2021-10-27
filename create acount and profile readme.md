@@ -27,11 +27,11 @@ Now, you have arrived to your activity page. The next steps will teach you how t
 To create the profile README, you are going to perform the following:
 
 <ol>
-<li>Click the + icon in the upper right-hand corner and select New repository.</li>
+  <li>Click the + icon in the upper right-hand corner and select <b>New repository</b>.</li>
 <li>Name your repository the same as your username (must match username.)</li>
 <li>Choose whether you want your profile to be public or private.</li>
-<li>Select Initialize this repository with a README.</li>
-<li>Select create repository.</li>
+  <li>Select <b>Initialize this repository with a README</b>.</li>
+  <li>Select <b>create repository</b>.</li>
 </ol>
   
 Once all steps are completed, you have successfully created your GitHub account and your GitHub profile README. To see the finish product, click the profile icon in the upper right-hand and select Your Profile.
