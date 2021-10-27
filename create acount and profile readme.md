@@ -1,4 +1,4 @@
-<h1>Heading level 1</h1>Overview
+<h1>Overview</h1>
 
 GitHub is a code-hosting platform for version control and collaboration. Github allows you and others to come together and work on developing projects from anywhere.
 
