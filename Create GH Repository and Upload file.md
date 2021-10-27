@@ -1,4 +1,4 @@
-<h1>How to create GitHub repository and upload files to your github repository. </h1>
+<h1>How To Create A GitHub Repository and Upload Files To Your GitHub Repository. </h1>
 
 In this document, you will learn how to create a new GitHub repository and how to upload a file to your GitHub repository.
 A repository is a central location in which data is stored and managed. Github allows you to create a repository and upload files to the repository, which
