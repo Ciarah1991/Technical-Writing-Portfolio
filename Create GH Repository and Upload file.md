@@ -8,9 +8,9 @@ allowes you to come together with others and work on projects from anywhere.
 
 Log on to GitHub.com and sign in to your account. To create a repository, locate the icon on the upper leftt-hand corner.
 
-<div id=”center”>
-<img src=” https://imgur.com/7lk9io”>
-</div>
+
+![Image] (https://imgur.com/7lk9io)
+
 You will now arrive to the repository page. Next, select <b>New</b>
 <div id=”center”>
 <img src=”https://imgur.com/lfzl9oy”>
