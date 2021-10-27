@@ -1,4 +1,4 @@
-< # Header One >Overview
+<# Header One>Overview
 
 GitHub is a code-hosting platform for version control and collaboration. Github allows you and others to come together and work on developing projects from anywhere.
 
