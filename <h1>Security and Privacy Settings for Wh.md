@@ -30,7 +30,8 @@ Businesses can grant access to employers and vendors to respond to secure messag
 
 Transfer money between bank institutions. Card and bank numbers are stored encrypted in a secured network. However, payment transactions are not end-to-end encrypted due to the financial institutions need of related information to process transactions.
 
-WhatsApp is able to provide further protection for users. Users are able to enable the following:
+
+For further protection, WhatsApp allow users are able to enable the following:
 
 <ul>
 	<li> Two step verification</li> 
