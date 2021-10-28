@@ -2,7 +2,7 @@
 
 In this document, you will learn how to create a new GitHub repository and how to upload a file to your GitHub repository.
 A repository is a central location in which data is stored and managed. Github allows you to create a repository and upload files to the repository, which
-allowes you to come together with others and work on projects from anywhere.
+grants you to come together with others and collaborate on projects from anywhere.
 
 <h2>Creating a GitHub Repository</h2>
 
@@ -17,7 +17,7 @@ Lastly, select <b>create repository</b>.
 <h2> Uploading A File To Your GitHub Repository</h2>
 
 Now you are on your new repositories main page. Select <b>Add file</b> then select <b>Upload files</b>.
-You can either drag your file to add them to the repository or you can <b>choose your files</b>. Upload your file and scroll down.
+You can either drag your file to add the file to the repository or you can <b>choose your files</b>. Upload your file and scroll down.
 You have an option to change the description of the document, you can leave the description as is or add a brief
 description about your document. Under the description, there is a "commit" button. Commit changes is GitHubs version of a save button.
 To save your changes, select <b>Commit changes</b>.
